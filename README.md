@@ -31,3 +31,7 @@ Coin Flashr is available for Windows, Mac and Linux users. However, there is a s
 ## Usage
 
 Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
+
+## Community
+
+Stay updated through the [official channel](https://t.me/coinflashr_app) for progress tracking and feature updates.
